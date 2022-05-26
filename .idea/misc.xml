@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/malbert/AndroidStudioProjects/FinalCourse/app/src/main/res/layout/activity_all_books.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/malbert/AndroidStudioProjects/FinalCourse/app/src/main/res/layout/activity_already_read_book.xml" value="0.1" />
+        <entry key="..\:/Users/malbert/AndroidStudioProjects/FinalCourse/app/src/main/res/layout/activity_book.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/malbert/AndroidStudioProjects/FinalCourse/app/src/main/res/layout/activity_currently_reading_books.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/malbert/AndroidStudioProjects/FinalCourse/app/src/main/res/layout/activity_favorite_books.xml" value="0.17239583333333333" />
         <entry key="..\:/Users/malbert/AndroidStudioProjects/FinalCourse/app/src/main/res/layout/activity_main.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/malbert/AndroidStudioProjects/FinalCourse/app/src/main/res/layout/activity_want_to_read_books.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/malbert/AndroidStudioProjects/FinalCourse/app/src/main/res/layout/fragment_c.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/malbert/AndroidStudioProjects/FinalCourse/app/src/main/res/layout/list_item_book.xml" value="0.18541666666666667" />
       </map>
     </option>
   </component>
